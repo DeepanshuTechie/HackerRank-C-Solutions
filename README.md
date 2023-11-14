@@ -6,6 +6,8 @@ Welcome to my HackerRank C Solutions repository! 🚀 Here, you'll find my solut
 
 Feel free to explore the solutions! You can clone the repository and run the C programs on your local machine. Each solution is self-contained in its respective file.
 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/debeshp6/HackerRank-C-Solutions)
+
 ## Contributing
 
 If you'd like to contribute or improve existing solutions, please fork the repository, create a new branch, commit your changes, and open a pull request.
