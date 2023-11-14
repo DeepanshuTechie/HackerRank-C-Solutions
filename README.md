@@ -14,8 +14,8 @@ If you'd like to contribute or improve existing solutions, please fork the repos
 
 If you have any questions or suggestions, feel free to reach out:
 
-Email: debeshp6@gmail.com
-| LinkedIn: [Debesh Paul](www.linkedin.com/in/debesh-paul-4254511bb)
-| Instagram: [debesh66.official](www.instagram.com/debesh66.official)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:debeshp6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debesh-paul-4254511bb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/debesh66.official/)
 
 Happy coding! 🚀
