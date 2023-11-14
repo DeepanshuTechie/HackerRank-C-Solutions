@@ -10,9 +10,8 @@
 
 char* readline();
 
-
-
 int main()
+
 {
     char* n_endptr;
     char* n_str = readline();
@@ -22,8 +21,9 @@ int main()
 
     // Write Your Code Here
         
-    if(n>=1 && n<=9)
-    {   if(n==1)
+    if(n>=1 && n<=9) {
+        
+        if(n==1)
         printf("one");
         if(n==2)
         printf("two");
@@ -42,9 +42,9 @@ int main()
         if(n==9)
         printf("nine");
     }
-    else
+    else {
         printf("Greater than 9");
-
+    }
     return 0;
 }
 
